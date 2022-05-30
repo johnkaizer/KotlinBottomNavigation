@@ -4,9 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/kayza/AndroidStudioProjects/BottomNavKotlin/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/BottomNavKotlin/app/src/main/res/layout/fragment_blank.xml" value="0.1675213675213675" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/BottomNavKotlin/app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/BottomNavKotlin/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/kayza/AndroidStudioProjects/BottomNavKotlin/app/src/main/res/layout/fragment_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/BottomNavKotlin/app/src/main/res/layout/nav_header.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/BottomNavKotlin/app/src/main/res/menu/menu.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/kayza/AndroidStudioProjects/BottomNavKotlin/app/src/main/res/menu/nav_menu.xml" value="0.1675213675213675" />
       </map>
     </option>
   </component>
