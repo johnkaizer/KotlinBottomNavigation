@@ -2,8 +2,6 @@ package com.example.bottomnavkotlin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.system.Os.close
-import android.system.Os.open
 import android.view.MenuItem
 import android.widget.TableLayout
 import android.widget.Toast
@@ -15,7 +13,9 @@ import com.google.android.material.tabs.TabLayout
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
+
     lateinit var toggle : ActionBarDrawerToggle
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -36,21 +36,23 @@ class MainActivity : AppCompatActivity() {
                 R.id.nav_profile -> Toast.makeText(applicationContext, "Clicked ptofile",Toast.LENGTH_SHORT).show()
                 R.id.rate_us -> Toast.makeText(applicationContext, "Clicked rate us",Toast.LENGTH_SHORT).show()
                 R.id.login -> Toast.makeText(applicationContext, "Clicked login",Toast.LENGTH_SHORT).show()
+                R.id.nav_history -> Toast.makeText(applicationContext, "Clicked history",Toast.LENGTH_SHORT).show()
             }
             true
         }
-       fun onOptionsItemSelected(item: MenuItem):Boolean{
 
-           if (toggle.onOptionsItemSelected(item)){
+    }
+    override  fun onOptionsItemSelected(item: MenuItem):Boolean{
 
-               return true
-           }
+        if (toggle.onOptionsItemSelected(item)){
 
-           return super.onOptionsItemSelected(item)
-       }
+            return true
+        }
+
+        return super.onOptionsItemSelected(item)
     }
 
-// Tab layout code
+// Tab layout code/ FRAGMENTS CODE has been commented out
 
 
 //    private fun setUpTabBar() {
