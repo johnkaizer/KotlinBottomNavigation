@@ -22,3 +22,13 @@ A
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+o
+?app/src/main/java/com/example/bottomnavkotlin/TabPageAdapter.kt,b\3\b302c2eaae263e36ec8e46d2b6971e4aeedcb180
+q
+Aapp/src/main/java/com/example/bottomnavkotlin/SettingsFragment.kt,0\9\09ca406add35d7bee37d8733b167e425e0bb9e1e
+p
+@app/src/test/java/com/example/bottomnavkotlin/ExampleUnitTest.kt,f\2\f2cb424cdc7fb7851538c2cd1160362c2e2ad1b5
+m
+=app/src/main/java/com/example/bottomnavkotlin/HomeFragment.kt,f\0\f0085b53ba3fa870712aae307db8adf8edbb5fae
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164

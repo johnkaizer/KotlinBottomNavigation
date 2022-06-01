@@ -3,6 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
     <item
         android:id="@+id/nav_profile"
         android:icon="@drawable/person_24"
@@ -19,18 +20,22 @@
         android:id="@+id/nav_history"
         android:icon="@drawable/history_24"
         android:title="History" />
+    </group>
 
     <item android:title="Profile">
 
         <menu>
+            <group>
             <item
                 android:id="@+id/login"
                 android:icon="@drawable/login_24"
                 android:title="Login" />
+            </group>
         </menu>
     </item>
     <item android:title="Communicate">
         <menu>
+            <group>
             <item
                 android:id="@+id/rate_us"
                 android:icon="@drawable/rate_24"
@@ -39,6 +44,7 @@
                 android:id="@+id/nav_share"
                 android:icon="@drawable/share_24"
                 android:title="Share" />
+            </group>
 
         </menu>
     </item>
