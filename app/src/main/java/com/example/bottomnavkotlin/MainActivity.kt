@@ -70,6 +70,7 @@ class MainActivity : AppCompatActivity() {
         return super.onOptionsItemSelected(item)
     }
 
+
 // Tab layout code/ FRAGMENTS CODE has been commented out
 
 

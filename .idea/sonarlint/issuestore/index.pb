@@ -32,3 +32,13 @@ m
 =app/src/main/java/com/example/bottomnavkotlin/HomeFragment.kt,f\0\f0085b53ba3fa870712aae307db8adf8edbb5fae
 @
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+p
+@app/src/main/java/com/example/bottomnavkotlin/ProfileFragment.kt,6\f\6f6f2e6558f67dd109c151964eaf63c26433d847
+m
+=app/src/main/java/com/example/bottomnavkotlin/ProfFragment.kt,8\7\87b964a872e3ee93fcce422c01cd5ad584389799
+m
+=app/src/main/java/com/example/bottomnavkotlin/SettFragment.kt,1\4\14717747cb0533c7c23c2c6bbd9a3cb8535fd20b
+p
+@app/src/main/java/com/example/bottomnavkotlin/HistoryFragment.kt,9\c\9c6a3309682455e0a1daa7ad54b33e74564e67d5
+n
+>app/src/main/java/com/example/bottomnavkotlin/LoginFragment.kt,0\c\0c73e32c6e4ae1e3121799c8371199d9dc04740e
